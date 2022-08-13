@@ -1,0 +1,21 @@
+
+@media(max-width: 767px){
+    .navbar-light .navbar-nav .nav-link {
+        color: #242424 !important;
+    }
+
+    .navbar-nav {
+        background: #f3f3f3;
+        padding: 34px;
+        text-align: center;
+        
+
+    }
+
+    .container-fluid {
+        padding: 0;
+    }
+    .banner_section{
+        display: block;
+        background-image: none;}
+}
